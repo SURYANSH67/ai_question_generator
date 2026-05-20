@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables (secret keys)
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Application database and history files
+data/
+retriever_db/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
