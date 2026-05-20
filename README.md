@@ -2,6 +2,8 @@
 
 A professional, curriculum-aligned exam generation and semantic grading platform. This system leverages Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to ingest study resources, generate tailored examination materials, evaluate student submissions, and provide actionable analytics for teachers.
 
+![Application Screenshot](app_screenshot.png)
+
 ---
 
 ## Key Features
